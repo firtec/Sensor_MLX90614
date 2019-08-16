@@ -4,8 +4,8 @@ El sensor MLX90614 puede medir la temperatura a distancia, con el MLX90614 lo ú
 Esta es la característica importante del pequeño sensor, medir a través de ondas infrarrojas. Aprovechando un fenómeno físico conocido, la temperatura de un cuerpo se puede medir a través de las ondas infrarrojas que se irradia en el ambiente.
 Los rangos de temperatura que puede medir este sensor son: de -70°C a +380°C.
 Toma las mediciones en ángulos de visión hasta por sobre 90 grados.
-Con estas características, es mucho más práctico determinar la temperatura de un área específica.
-El sesor viene calibrado directa de fábrica.
+Con estas características, es mucho más práctico determinar la temperatura de un área específica. 
+El sensor ya viene calibrado directa de fábrica.
 
 Temperaturas óptimas de operación para el sensor: -40°C a +125°C
 
