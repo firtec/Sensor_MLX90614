@@ -21,3 +21,4 @@ Alimentación: 2.6V a 3.6V (para la versión de 3V).
 
 Protocolo I2C. Dirección fija de 7 bits 0x5A
 
+Visite www.firtec.com.ar, mas info y documentos técnicos :)
